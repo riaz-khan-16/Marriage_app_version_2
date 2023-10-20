@@ -1,10 +1,12 @@
 # Marriage Partner Finding Application (Django)
 
 ## Short Description
-After diving into Python I thought it would be better to learn Django for the Integration of Machine Learning Solutions. So, I learned about Django’s MVT workflow,  REST Framework,  Database Designing, and Session management and took hands-on experiences by making a funny application ‘ Marriage Partner Finder App’. The features are a Login and Registration system for the person who wants to marry, propose to the desired person, Check a lot of profiles, and know more about a person. Django, SQLite, and Bootstrap are used as development tools.
+This application will help a person to get their desired person for marriage easily. A  person can search the types of person he or she likes and view the details
+of the person. If he likes any person he can propose to that person by using this app. On the other hand, he can create his own  profile in the portal so that
+if any person likes his profile that person can propose or contact him.
 ## Goal:
 The goal of this project is to help general people for their marriage partner finding.
-A person who is not able to tell his parents about his marriage or he has no ability 
+A person who is not able to tell his parents about his marriage or has no ability 
 to find a partner directly this app is for him/her. Finding a partner for marriage is not easy today.
 People haven't enough time to explore the whole country and find the desirable person in the traditional way.
 This is a waste of time. To overcome the problem this application comes up. Using this app anyone can:
