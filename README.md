@@ -25,10 +25,26 @@ The basic structure of the web pages is made of HTML and CSS. Making the web pag
 Bootstrap library helped me to make the task easy. Therefore custom CSS was also required for making the pages attractive and nice looking.
 The whole project was built up using Visual Studio Code Editor. The project was run in a virtual environment.
 
+![public_page](https://github.com/riaz-khan-16/Marriage_app_version_2/assets/63443462/e1c5f94a-cf81-46a4-be46-ce67700a36f2)
+
+Features:
+
+1. Propose Functionality: A person can propose the desired functionality using the propose button
+
+   
+
+
+![propose Button](https://github.com/riaz-khan-16/Marriage_app_version_2/assets/63443462/22441b70-69fc-4942-9ebc-43c8201576d8)
+![propose_page](https://github.com/riaz-khan-16/Marriage_app_version_2/assets/63443462/c5bb0a1d-a78d-46f8-82e2-d758f4d9e160)
+
+
+
+
+
 ![fc](https://github.com/riaz-khan-16/Marriage_app_version_2/assets/63443462/8cf2ff28-e854-4763-908d-bcb4c8a3a1e5)
 
 
-![public_page](https://github.com/riaz-khan-16/Marriage_app_version_2/assets/63443462/b6277a95-6dda-4ed6-a175-d00571d58818)
+
 
 
 
