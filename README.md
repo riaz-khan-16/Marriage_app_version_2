@@ -38,6 +38,14 @@ Features:
 ![propose_page](https://github.com/riaz-khan-16/Marriage_app_version_2/assets/63443462/c5bb0a1d-a78d-46f8-82e2-d758f4d9e160)
 
 
+2. Details Functionality: Using the "Details" button a person can know about the information about:
+     a. Initial Information
+     b. Family Information
+     c. Educational Information
+     d. Professional Information
+     e.Desired Person's Qualities
+
+   ![details_button](https://github.com/riaz-khan-16/Marriage_app_version_2/assets/63443462/e7b7d45f-1802-4373-917c-d2fe3184d6bd)
 
 
 
